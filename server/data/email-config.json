@@ -1,0 +1,11 @@
+{
+  "service": "web3forms",
+  "web3FormsKey": "",
+  "gmailUser": "shannu0429@gmail.com",
+  "gmailAppPassword": "",
+  "smtpHost": "",
+  "smtpPort": 587,
+  "smtpUser": "",
+  "smtpPass": "",
+  "recipientEmail": "shannu0429@gmail.com"
+}

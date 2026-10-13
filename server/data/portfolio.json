@@ -1,0 +1,279 @@
+{
+  "profile": {
+    "name": "SOMISETTY SHANMUKHA",
+    "preferredName": "Shanmukha",
+    "title": "Python Developer | AI Enthusiast | Problem Solver",
+    "tagline": "Computer Science Engineering Student @ VVIT",
+    "careerGoal": "Seeking software development and Python developer internship opportunities where I can learn, contribute, and solve real-world challenges with clean, robust code.",
+    "heroIntro": "Build practical software solutions with Python, explore AI, and turn ideas into useful applications.",
+    "about": {
+      "overview": "I am a 3rd-year Computer Science and Engineering undergraduate at Vasireddy Venkatadri Institute of Technology (VVIT). My primary programming strength lies in Python development, complemented by hands-on experience in backend architectures with Flask, modern frontend workflows, and computer vision with YOLO and OpenCV. I focus on developing practical, dependable software systems that solve real problems.",
+      "focusAreas": [
+        "Backend engineering and RESTful APIs using Python & Flask",
+        "Computer Vision applications using YOLO & OpenCV",
+        "Modern web interfaces with React, TypeScript & Tailwind CSS",
+        "Algorithmic problem solving and Data Structures (DSA)"
+      ],
+      "strengths": [
+        "Clean, maintainable Python code",
+        "Hands-on project development from ideation to implementation",
+        "Quick adaptability to new frameworks and tools",
+        "Analytical mindset and continuous learning habits"
+      ]
+    },
+    "location": "Andhra Pradesh, India",
+    "college": "Vasireddy Venkatadri Institute of Technology (VVIT)",
+    "degree": "B.Tech",
+    "branch": "Computer Science and Engineering (CSE)",
+    "year": "3rd Year",
+    "photoUrl": "/images/profile.jpg",
+    "photoPlaceholderText": "YOUR PHOTO HERE",
+    "resumeAvailable": false,
+    "resumeUrl": "/resume.pdf"
+  },
+  "skills": {
+    "categories": [
+      {
+        "id": "languages",
+        "title": "Programming Languages",
+        "description": "Core languages for algorithmic logic, system scripting, and software construction.",
+        "icon": "Code2",
+        "skills": [
+          {
+            "name": "Python",
+            "isPrimary": true,
+            "highlight": true
+          },
+          {
+            "name": "C"
+          },
+          {
+            "name": "JavaScript"
+          },
+          {
+            "name": "SQL"
+          }
+        ]
+      },
+      {
+        "id": "backend",
+        "title": "Backend Development",
+        "description": "Server-side services, RESTful API design, application logic, and microservices.",
+        "icon": "Server",
+        "skills": [
+          {
+            "name": "Python",
+            "isPrimary": true,
+            "highlight": true
+          },
+          {
+            "name": "Flask",
+            "isPrimary": true,
+            "highlight": true
+          },
+          {
+            "name": "Node.js"
+          },
+          {
+            "name": "Express.js"
+          }
+        ]
+      },
+      {
+        "id": "ai-cv",
+        "title": "AI & Computer Vision",
+        "description": "Object detection, visual processing pipelines, and applied intelligence models.",
+        "icon": "Cpu",
+        "skills": [
+          {
+            "name": "YOLO",
+            "highlight": true
+          },
+          {
+            "name": "OpenCV",
+            "highlight": true
+          },
+          {
+            "name": "NLP Fundamentals"
+          }
+        ]
+      },
+      {
+        "id": "frontend",
+        "title": "Frontend Development",
+        "description": "Interactive user interfaces, modern component architectures, and responsive web styling.",
+        "icon": "Layout",
+        "skills": [
+          {
+            "name": "React.js",
+            "highlight": true
+          },
+          {
+            "name": "TypeScript"
+          },
+          {
+            "name": "Tailwind CSS"
+          },
+          {
+            "name": "HTML5"
+          },
+          {
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "id": "databases",
+        "title": "Databases & Storage",
+        "description": "Relational querying, schema design, and document-oriented databases.",
+        "icon": "Database",
+        "skills": [
+          {
+            "name": "MySQL"
+          },
+          {
+            "name": "MongoDB"
+          },
+          {
+            "name": "Oracle SQL"
+          }
+        ]
+      },
+      {
+        "id": "tools",
+        "title": "Tools & Platforms",
+        "description": "Version control, containerization, cloud learning, and engineering environments.",
+        "icon": "Wrench",
+        "skills": [
+          {
+            "name": "Git"
+          },
+          {
+            "name": "GitHub"
+          },
+          {
+            "name": "VS Code"
+          },
+          {
+            "name": "Docker"
+          },
+          {
+            "name": "Google Cloud Skills Boost"
+          },
+          {
+            "name": "Antigravity"
+          }
+        ]
+      }
+    ],
+    "currentlyLearning": [
+      "Data Structures and Algorithms (DSA)",
+      "AI & Machine Learning (Deep Learning Foundations)",
+      "Full-Stack Architectural Patterns"
+    ]
+  },
+  "projects": [
+    {
+      "id": "jobalign-ai",
+      "title": "JobAlign AI",
+      "tagline": "AI-assisted resume & job matching platform",
+      "description": "An AI-assisted resume and job matching platform that extracts relevant information from resumes, compares candidate skills with job requirements, and provides match scores with missing-skill insights.",
+      "techStack": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "NLP Fundamentals",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "githubUrl": null,
+      "demoUrl": null,
+      "featured": true,
+      "category": "AI / Python",
+      "highlightBadge": "Python & NLP",
+      "previewGradient": "from-cyan-500/20 via-blue-500/20 to-indigo-500/20"
+    },
+    {
+      "id": "smart-farm-assistant",
+      "title": "Smart Farm Assistant",
+      "tagline": "Vision-based animal detection & crop protection",
+      "description": "A smart crop protection system that uses animal detection to help protect crops from potential threats. It uses computer vision to identify animals and can trigger alerts to notify the farmer.",
+      "techStack": [
+        "Python",
+        "YOLO",
+        "OpenCV",
+        "Flask",
+        "ESP32-CAM",
+        "Arduino"
+      ],
+      "githubUrl": "https://github.com/shannu0429-wq/sih-B47-2026",
+      "demoUrl": null,
+      "featured": true,
+      "category": "Computer Vision & IoT",
+      "highlightBadge": "YOLO & OpenCV",
+      "previewGradient": "from-emerald-500/20 via-teal-500/20 to-cyan-500/20"
+    },
+    {
+      "id": "bugflow",
+      "title": "BugFlow",
+      "tagline": "Modern software issue tracking & workflow manager",
+      "description": "A software issue-tracking platform designed to help teams report, organize, track, and manage software bugs efficiently.",
+      "techStack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Zustand",
+        "React Hook Form",
+        "Zod",
+        "Docker"
+      ],
+      "githubUrl": "https://github.com/shannu0429-wq/BugFlow-Nexus",
+      "demoUrl": null,
+      "featured": true,
+      "category": "Web Application",
+      "highlightBadge": "React & TypeScript",
+      "previewGradient": "from-purple-500/20 via-violet-500/20 to-sky-500/20"
+    }
+  ],
+  "education": [
+    {
+      "id": "vvit-btech",
+      "institution": "Vasireddy Venkatadri Institute of Technology (VVIT)",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "branch": "Computer Science and Engineering (CSE)",
+      "currentYear": "3rd Year",
+      "description": "Building strong fundamentals in Computer Science with a practical focus on software development, Python programming, algorithms, database systems, and modern web technologies.",
+      "highlights": [
+        "Core coursework in Data Structures, Object-Oriented Programming, and DBMS",
+        "Practical project implementation combining machine learning & full-stack development",
+        "Active focus on problem-solving, collaborative engineering, and continuous learning"
+      ]
+    }
+  ],
+  "certifications": [],
+  "socialLinks": [
+    {
+      "id": "github",
+      "name": "GitHub",
+      "url": "https://github.com/shannu0429-wq",
+      "icon": "Github",
+      "label": "github.com/shannu0429-wq"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/s-shanmukha-88397432a/",
+      "icon": "Linkedin",
+      "label": "linkedin.com/in/s-shanmukha-88397432a"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "url": "mailto:shannu0429@gmail.com",
+      "icon": "Mail",
+      "label": "shannu0429@gmail.com"
+    }
+  ],
+  "lastUpdated": "2026-10-13T17:58:20.593Z"
+}
